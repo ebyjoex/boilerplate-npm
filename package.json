@@ -1,5 +1,6 @@
 {
-	"name": "Ebiwar Williams",
+	"name": "fcc-learn-npm-package-json",
+	"author": "Ebiwari Williams",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
